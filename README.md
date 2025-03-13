@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**kafadev/kafadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm kafadev! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a C++ political simulator game
+- 🌱 I’m currently learning C++/Solidity
+- 👯 I’m looking to collaborate on any open-source projects
+- 🤔 I’m currently looking for full time jobs (new grad)
+- 💬 Ask me about college, programming
+- 📫 How to reach me: l0vyyjron@mozmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+你好！ 我叫 kafadev! 我的中文不很好， ～HSK 1
+- 我现在学 C++/Solidity
+- 我希望作软件工程师
